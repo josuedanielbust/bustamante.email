@@ -1,0 +1,25 @@
+title: Bustamante.email
+email: josue@bustamante.email
+description: >-
+        El email de Josue Daniel Bustamante
+baseurl: "/"
+url: "https://bustamante.email/"
+site: "https://josuedanielbust.com/"
+facebook: "https://facebook.com/josuedanielbust/"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
